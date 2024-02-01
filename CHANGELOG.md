@@ -1,3 +1,12 @@
+
+
+## [1.3.2](https://github.com/RNATI1992/test_changelog/compare/1.3.1...1.3.2) (2024-2-1)
+
+
+### Bug Fixes
+
+* i added text in html 2 ([f5c1d2d](https://github.com/RNATI1992/test_changelog/commit/f5c1d2d4841140d4506bff2826450bb861a3c8d7))
+
 ## Changelog
 
 All notable changes to this project will be documented in this file.
@@ -13,4 +22,3 @@ All notable changes to this project will be documented in this file.
 | Commit  | Type   | Breaking Changes |
 | ------- | ------ | ---------------- |
 | ...     | ...    | ...              |
-
