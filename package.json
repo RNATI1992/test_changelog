@@ -49,6 +49,14 @@
               "type": "fix",
               "section": "Bug Fixes"
             },
+            {
+							"type": "style",
+							"hidden": true
+						},
+            {
+							"type": "docs",
+							"hidden": true
+						},
             {}
           ]
         }
