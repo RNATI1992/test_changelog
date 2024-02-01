@@ -39,7 +39,7 @@
       "@release-it/conventional-changelog": {
         "infile": "CHANGELOG.md",
         "preset": {
-          "name": "conventionlcommits",
+          "name": "conventionalcommits",
           "types": [
             {
               "type": "feat",
