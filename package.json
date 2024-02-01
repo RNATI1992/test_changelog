@@ -1,4 +1,22 @@
 {
+  "name": "changelog",
+  "version": "1.2.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RNATI1992/test_changelog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RNATI1992/test_changelog/issues"
+  },
+  "homepage": "https://github.com/RNATI1992/test_changelog#readme",
   "dependencies": {
     "@commitlint/cli": "^18.6.0",
     "@commitlint/config-conventional": "^18.6.0",
