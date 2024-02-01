@@ -1,5 +1,12 @@
 
 
+## [1.3.4](https://github.com/RNATI1992/test_changelog/compare/1.3.3...1.3.4) (2024-2-1)
+
+
+### Bug Fixes
+
+* i added text in html 4 ([8c362ce](https://github.com/RNATI1992/test_changelog/commit/8c362cee3f584f68398f1a8e5a00bc2179013221))
+
 ## [1.3.3](https://github.com/RNATI1992/test_changelog/compare/1.3.2...1.3.3) (2024-2-1)
 
 
