@@ -1,5 +1,12 @@
 
 
+## [1.3.1](https://github.com/RNATI1992/test_changelog/compare/1.3.0...1.3.1) (2024-2-1)
+
+
+### Bug Fixes
+
+* i added text in html ([c00abae](https://github.com/RNATI1992/test_changelog/commit/c00abaefc695ed185ddd5fed134ada6e352035c8))
+
 ## 1.3.0 (2024-2-1)
 
 
