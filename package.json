@@ -29,8 +29,7 @@
     },
     "github": {
       "release": true,
-      "draft": true,
-      "releaseName": "${version}",
+      "releaseName": "Version ${version}",
       "tokenRef": "GITHUB_TOKEN"
     },
     "npm": {
