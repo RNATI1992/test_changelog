@@ -1,5 +1,12 @@
 
 
+## [2.9.1](https://github.com/RNATI1992/test_changelog/compare/v2.9.0...v2.9.1) (2024-02-28)
+
+
+### Bug Fixes
+
+* app html ([e2dfdf1](https://github.com/RNATI1992/test_changelog/commit/e2dfdf19d59ad0ca7a21328963f822f229d57579))
+
 ## [2.9.0](https://github.com/RNATI1992/test_changelog/compare/v1.6.0...v2.9.0) (2024-02-28)
 
 
