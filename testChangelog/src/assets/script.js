@@ -1,21 +1,27 @@
 // script.js
+// Access to file system
 const fs = require('fs');
+// Path of file
 const path = require('path');
 
-// Lee el contenido de src/assets/config.json
+// Read the content of src/assets/config.json
 const configPath = 'config.json';
 const configContent = fs.readFileSync(configPath, 'utf-8');
+// Converts a JavaScript Object Notation (JSON) string into an object.
 const config = JSON.parse(configContent);
-
-// Obtiene la nueva versión desde src/assets/config.json
+// Get the new version from src/assets/config.json
 const newVersion = config.version;
 
-// Calcula la ruta a package.json subiendo un nivel desde src/assets/
-const packageJsonPath = path.resolve('../../package.json');
+// The path of package.json
+const packageJsonPath = path.resolve('../../../package.json');
+console.log(packageJsonPath);
 const packageJsonContent = fs.readFileSync(packageJsonPath, 'utf-8');
+// Here we change the version of package.json to the new version of config file.
 const updatedPackageJson = packageJsonContent.replace(/"version": "(\d+\.\d+\.\d+)"/, `"version": "${newVersion}"`);
-
-// Escribe el contenido actualizado de package.json
+// Here we can see all the text of the file
+console.log(updatedPackageJson);
+// Write the updated content to package.json
+// File (dodne se vuelca) y data(los datos que se volcaran)
 fs.writeFileSync(packageJsonPath, updatedPackageJson);
 
-console.log(`La versión en package.json ha sido actualizada a: ${newVersion}`);
+console.log(`The version in package.json has been updated to: ${newVersion}`);

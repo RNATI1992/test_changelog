@@ -1,6 +1,6 @@
 {
   "name": "test-changelog",
-  "version": "2.8.319",
+  "version": "2.8.320",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
