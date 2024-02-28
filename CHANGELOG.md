@@ -1,5 +1,12 @@
 
 
+## [2.9.0](https://github.com/RNATI1992/test_changelog/compare/v1.6.0...v2.9.0) (2024-02-28)
+
+
+### Features
+
+* prueba ([f475385](https://github.com/RNATI1992/test_changelog/commit/f475385f85fab243af69c074818bff69c7b19095))
+
 ## [1.6.0](https://github.com/RNATI1992/test_changelog/compare/v1.4.1...v1.6.0) (2024-2-2)
 
 
